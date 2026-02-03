@@ -2,7 +2,7 @@
 
 A simple React + Vite application simulating an email inbox.
 
-![App Screenshot](src\assets\demo.png) <!-- replace with your screenshot path -->
+![Demo](src/assets/demo.png)
 
 ## Features
 - Add emails with sender, subject, and status (sent/failed)
