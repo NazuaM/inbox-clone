@@ -2,8 +2,6 @@
 
 A simple React + Vite application simulating an email inbox.
 
-![Demo](src/assets/demo.png)
-
 ## Features
 - Add emails with sender, subject, and status (sent/failed)
 - Display emails in a list format
